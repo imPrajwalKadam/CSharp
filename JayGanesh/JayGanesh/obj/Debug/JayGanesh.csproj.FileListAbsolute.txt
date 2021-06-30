@@ -1,0 +1,7 @@
+C:\Users\atharva\Desktop\C#\JayGanesh\JayGanesh\bin\Debug\JayGanesh.exe.config
+C:\Users\atharva\Desktop\C#\JayGanesh\JayGanesh\bin\Debug\JayGanesh.exe
+C:\Users\atharva\Desktop\C#\JayGanesh\JayGanesh\bin\Debug\JayGanesh.pdb
+C:\Users\atharva\Desktop\C#\JayGanesh\JayGanesh\obj\Debug\JayGanesh.csprojAssemblyReference.cache
+C:\Users\atharva\Desktop\C#\JayGanesh\JayGanesh\obj\Debug\JayGanesh.csproj.CoreCompileInputs.cache
+C:\Users\atharva\Desktop\C#\JayGanesh\JayGanesh\obj\Debug\JayGanesh.exe
+C:\Users\atharva\Desktop\C#\JayGanesh\JayGanesh\obj\Debug\JayGanesh.pdb
